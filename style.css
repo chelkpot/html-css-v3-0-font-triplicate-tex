@@ -1,0 +1,17 @@
+p{
+    font-style: italic, oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    text-indent: 45px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+p:hover{
+    color: aquamarine
+}
+a{
+    text-decoration: none;
+}
